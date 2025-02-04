@@ -10,7 +10,8 @@ body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     height: 100vh;
     flex-direction: column;
-    background-color: rgba(236, 229, 229, 0.468);
+    background-color: rgba(211, 205, 204, 0.468);
+    
 }
 
 .form{
@@ -26,7 +27,7 @@ body{
 .main{
     width: 18%;
     margin-top: 6vh;
-    height: 35vh;
+    height: 40vh;
     background-color:white;
     padding: 1.5rem;
 
